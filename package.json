@@ -1,0 +1,27 @@
+{
+  "name": "loriel",
+  "version": "1.0.0",
+  "description": "Developed By LorieL",
+  "main": "loriel.js",
+  "scripts": {
+    "test": "node loriel.js"
+  },
+  "dependencies": {
+    "@discordjs/builders": "^1.2.0",
+    "@discordjs/rest": "^1.7.1",
+    "croxydb": "^0.0.25",
+    "discord-api-types": "^0.37.93",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "nodemon": "^2.0.22",
+    "openai": "^4.54.0",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.40.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  },
+  "author": "Bora",
+  "license": "ISC"
+}
