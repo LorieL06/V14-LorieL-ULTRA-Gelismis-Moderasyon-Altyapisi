@@ -25,3 +25,15 @@ Ardından config.json dosyasını düzenleyerek bot token'ınızı ve diğer aya
 Botu başlatmak için:
 
 node .
+
+
+📁 Dosya Yapısı
+
+- commands/ – Komutların bulunduğu klasör
+
+- events/ – Bot olayları (ready, messageCreate vs.)
+
+- config.json – Bot ayarları
+
+- index.js – Ana bot başlatıcısı
+
