@@ -27,7 +27,7 @@ Botu başlatmak için:
 node .
 
 
-📁 Dosya Yapısı
+## 📁 Dosya Yapısı
 
 - commands/ – Komutların bulunduğu klasör
 
