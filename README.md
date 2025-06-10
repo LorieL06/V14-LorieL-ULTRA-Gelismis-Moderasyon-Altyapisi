@@ -37,3 +37,13 @@ node .
 
 - index.js – Ana bot başlatıcısı
 
+
+## 📌 Notlar
+
+> Bot altyapısı, kendi moderasyon sistemini geliştirmek isteyen geliştiriciler için temel oluşturur.
+
+> Proje açık kaynaklıdır ve gelişime açıktır.
+
+## 🧠 Katkıda Bulun
+
+> Pull request'lere ve önerilere açığım! Projeyi fork'layabilir, geliştirmeler yapabilir ve katkıda bulunabilirsiniz.
