@@ -19,3 +19,9 @@ Bu proje, Discord.js v14 ile geliştirilmiş, özelleştirilebilir ve geliştiri
 git clone https://github.com/kullaniciadiniz/V14-LorieL-Moderasyon-Altyapi.git
 cd V14-LorieL-Moderasyon-Altyapi
 npm install
+
+Ardından config.json dosyasını düzenleyerek bot token'ınızı ve diğer ayarları girin
+
+Botu başlatmak için:
+
+node .
