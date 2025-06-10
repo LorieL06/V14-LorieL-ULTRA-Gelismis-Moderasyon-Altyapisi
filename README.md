@@ -47,3 +47,7 @@ node .
 ## 🧠 Katkıda Bulun
 
 > Pull request'lere ve önerilere açığım! Projeyi fork'layabilir, geliştirmeler yapabilir ve katkıda bulunabilirsiniz.
+
+
+Discord: loriel06
+Geliştirici: @boraadogan
